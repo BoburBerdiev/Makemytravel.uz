@@ -4,20 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a25f302-51ed-43d1-a48b-894a8effe7dc" name="Changes" comment="Makemytravel.uz">
-      <change afterPath="$PROJECT_DIR$/index-uz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inner-page1-uz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inner-page2-uz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inner-page3-uz.html" afterDir="false" />
+    <list default="true" id="8a25f302-51ed-43d1-a48b-894a8effe7dc" name="Changes" comment="o'zbek tili qo'shildi">
+      <change afterPath="$PROJECT_DIR$/assets/img/static/fukok11.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/tg_bot.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/tg_bot.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index-en.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-en.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-uz.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-uz.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inner-page1-en.html" beforeDir="false" afterPath="$PROJECT_DIR$/inner-page1-en.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inner-page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/inner-page1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inner-page2-en.html" beforeDir="false" afterPath="$PROJECT_DIR$/inner-page2-en.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inner-page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/inner-page2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inner-page3-en.html" beforeDir="false" afterPath="$PROJECT_DIR$/inner-page3-en.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inner-page3-uz.html" beforeDir="false" afterPath="$PROJECT_DIR$/inner-page3-uz.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inner-page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/inner-page3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +86,8 @@
       <option name="presentableId" value="Default" />
       <updated>1763624686546</updated>
       <workItem from="1763624687607" duration="6799000" />
-      <workItem from="1763657466063" duration="1719000" />
+      <workItem from="1763657466063" duration="4636000" />
+      <workItem from="1763715752176" duration="570000" />
     </task>
     <task id="LOCAL-00001" summary="Makemytravel.uz">
       <option name="closed" value="true" />
@@ -117,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763639646160</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="o'zbek tili qo'shildi">
+      <option name="closed" value="true" />
+      <created>1763659994700</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763659994700</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +129,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Makemytravel.uz" />
-    <option name="LAST_COMMIT_MESSAGE" value="Makemytravel.uz" />
+    <MESSAGE value="o'zbek tili qo'shildi" />
+    <option name="LAST_COMMIT_MESSAGE" value="o'zbek tili qo'shildi" />
   </component>
 </project>
